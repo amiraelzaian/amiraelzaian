@@ -1,5 +1,5 @@
 # 💫 About Me:
-Amira Mohammed Alzaian<br>Computer Science Student | Software Engineer | React.js Developer<br><br>I am a 21-year-old Computer Science student with a passion for software engineering. Enthusiastic about full-stack development, I specialize in the MERN stack and have hands-on experience as a React.js developer. I am eager to learn, grow, and contribute to innovative projects in the tech industry.
+Amira Mohammed Alzaian<br>Computer Science Student | Software Engineer | React.js Developer<br><br>I am a 20-year-old Computer Science student with a passion for software engineering. Enthusiastic about full-stack development, I specialize in the MERN stack and have hands-on experience as a React.js developer. I am eager to learn, grow, and contribute to innovative projects in the tech industry.
 
 
 ## 🌐 Socials:
