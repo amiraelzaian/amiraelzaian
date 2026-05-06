@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amira%20Al-Zaian&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20TypeScript&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Amira%20Al-Zaian&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descAlignY=55&descSize=18" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Amira+Al-Zaian+👋;Front-End+Developer+%7C+React.js+%7c+%7cNext.js;TypeScript+%7C+MERN+Stack+Enthusiast;Crafting+clean+UIs+%26+scalable+apps+✨;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+I'm+Amira+Al-Zaian+👋;Front-End+Developer+%7C+React+%7C+Next.js;TypeScript+%7C+MERN+Stack+Enthusiast;Crafting+clean+UIs+%26+scalable+apps+✨;Always+learning%2C+always+building+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -34,6 +34,10 @@
   &nbsp;
   <a href="https://wa.me/201005707613" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:amiraelzaian247@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-amiraelzaian247-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
