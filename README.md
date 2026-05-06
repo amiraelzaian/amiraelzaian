@@ -137,35 +137,44 @@ I'm a passionate Front-End Developer focused on building high-quality, responsiv
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiraelzaian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amiraelzaian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraelzaian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amiraelzaian&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=amiraelzaian&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 📈 Activity graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiraelzaian&theme=tokyo-night&hide_border=true&area=true&area_color=7B68EE" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiraelzaian&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <br/>
 
 ---
 
-## 🐍 Contribution snake
+## 💡 Words to live by
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amiraelzaian/amiraelzaian/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amiraelzaian/amiraelzaian/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/amiraelzaian/amiraelzaian/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=3000&color=7B68EE&center=true&vCenter=true&width=700&height=45&lines=The+expert+in+anything+was+once+a+beginner.;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;Strive+for+progress%2C+not+perfection.;Every+line+of+code+you+write+is+a+step+forward+🚀" />
 </p>
 
-> ℹ️ To enable the snake animation, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.
+<br/>
+
+<div align="center">
+
+| 💬 Quote | 👤 Author |
+|---------|--------|
+| *"The expert in anything was once a beginner."* | Helen Hayes |
+| *"Code is like humor. When you have to explain it, it's bad."* | Cory House |
+| *"First, solve the problem. Then, write the code."* | John Johnson |
+| *"Strive for progress, not perfection."* | Unknown |
+| *"The only way to do great work is to love what you do."* | Steve Jobs |
+
+</div>
 
 <br/>
 
