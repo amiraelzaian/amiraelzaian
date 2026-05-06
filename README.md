@@ -140,11 +140,11 @@ I'm a passionate Front-End Developer focused on building high-quality, responsiv
 
 ## 📊 GitHub stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amiraelzaian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraelzaian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amiraelzaian&theme=tokyonight&hide_border=true" />
