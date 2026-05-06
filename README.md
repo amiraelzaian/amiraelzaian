@@ -128,13 +128,58 @@ I'm a passionate Front-End Developer focused on building high-quality, responsiv
 
 ---
 
-## 🏆 GitHub trophies
+## 📚 Currently learning & resources
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amiraelzaian&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2000&color=7B68EE&center=true&vCenter=true&width=700&lines=Always+growing+%7C+Always+curious+%7C+Always+learning+🌱" />
 </p>
 
+<table align="center">
+  <tr>
+    <th>📖 Resource</th>
+    <th>🏷️ Topic</th>
+    <th>📊 Progress</th>
+  </tr>
+  <tr>
+    <td><a href="https://nextjs.org/docs">Next.js 14 Docs</a></td>
+    <td>App Router & Server Components</td>
+    <td>🟣🟣🟣🟣⬜ 80%</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.typescriptlang.org/docs/">TypeScript Handbook</a></td>
+    <td>Advanced Types & Generics</td>
+    <td>🟣🟣🟣⬜⬜ 70%</td>
+  </tr>
+  <tr>
+    <td><a href="https://tanstack.com/query/latest">TanStack Query Docs</a></td>
+    <td>Data Fetching & Caching</td>
+    <td>🟣🟣🟣🟣⬜ 80%</td>
+  </tr>
+  <tr>
+    <td><a href="https://supabase.com/docs">Supabase Docs</a></td>
+    <td>Auth, Storage & Realtime</td>
+    <td>🟣🟣🟣⬜⬜ 60%</td>
+  </tr>
+  <tr>
+    <td><a href="https://web.dev/learn/">web.dev by Google</a></td>
+    <td>Performance & Accessibility</td>
+    <td>🟣🟣⬜⬜⬜ 40%</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.patterns.dev/">Patterns.dev</a></td>
+    <td>Design Patterns in React</td>
+    <td>🟣🟣🟣⬜⬜ 60%</td>
+  </tr>
+</table>
+
 <br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js%2014-Learning-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Advancing-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-Exploring-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-Studying-brightgreen?style=for-the-badge" />
+</p>
 
 ---
 
