@@ -143,7 +143,7 @@ I'm a passionate Front-End Developer focused on building high-quality, responsiv
   <tr>
     <td><a href="https://nextjs.org/docs">Next.js 14 Docs</a></td>
     <td>App Router & Server Components</td>
-    <td>🟣🟣🟣🟣⬜ 80%</td>
+    <td>🟣🟣🟣🟣⬜ 85%</td>
   </tr>
   <tr>
     <td><a href="https://www.typescriptlang.org/docs/">TypeScript Handbook</a></td>
