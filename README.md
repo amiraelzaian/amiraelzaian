@@ -153,14 +153,14 @@ I'm continuously improving my problem-solving skills and exploring software arch
 - Improving frontend-backend integration.
 - Exploring Modular Monolith Architecture and Domain-Driven Design (DDD).
 
----
+
 
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amiraelzaian&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 <div align="center">
 
