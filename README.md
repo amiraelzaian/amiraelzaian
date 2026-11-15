@@ -158,24 +158,8 @@ I'm continuously improving my problem-solving skills and exploring software arch
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amiraelzaian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiraelzaian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=amiraelzaian&theme=tokyonight&hide_border=true" />
 </p>
-
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiraelzaian&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-
-
-
 ---
 
 <div align="center">
@@ -186,8 +170,8 @@ I'm continuously improving my problem-solving skills and exploring software arch
 
 <img src="https://komarev.com/ghpvc/?username=amiraelzaian&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
 
 </div>
